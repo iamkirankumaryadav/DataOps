@@ -4,7 +4,7 @@
 - Combines DevOps and Agile methodologies to ensure high quality data is delivered efficiently.
 
 ### **Key principles of DataOps:**
-1. * **Collaboration:** 
+1. **Collaboration:** 
 - Encourage collaboration between data engineers, data scientists, analysts, and business stakeholders to ensure alignment and shared understanding.
 
 2. **Automation:** 
