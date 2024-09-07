@@ -12,3 +12,4 @@
 - **Apache Kafka:** A distributed streaming platform for handling high-throughput, low-latency data streams.
 - **Apache Flink:** A distributed stream processing framework for real-time analytics.
 - **Apache Spark Streaming:** A component of Apache Spark for processing streaming data.
+- **Apache Flume:** A distributed platform to collect and analyze logs from distributed systems.
