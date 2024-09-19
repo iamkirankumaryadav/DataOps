@@ -1,9 +1,8 @@
 # **DataOps (Data Operations)**
 
-- A set of practices that aim to optimize the entire data lifecycle, from ingestion to consumption.
+- A set of practices and technologies that help to optimize the entire data lifecycle (ingestion, management, integration and consumption)
 - Combines DevOps and Agile methodologies to ensure high-quality data is delivered efficiently with cross-functional collaboration.
-- A set of practices and technologies that help improve data management and integration.
-- A discipline that merges data engineering and data science teams to support an organization's data needs,
+- A discipline that merges Data Engineering and Data Science Teams to support an organization's data needs,
 
 ### **Key principles of DataOps:**
 1. **Collaboration:** 
