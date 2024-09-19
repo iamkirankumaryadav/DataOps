@@ -55,4 +55,4 @@
 2. **Data Transformation:** Apache Spark, Python (Pandas, NumPy)
 3. **Data Modeling:** TensorFlow, PyTorch
 4. **CI/CD:** Jenkins, GitLab CI/CD
-5. **Monitoring:** Grafana, Prometheus
+5. **Monitoring:** Grafana, Prometheus, Splunk, Dashboards, etc.
